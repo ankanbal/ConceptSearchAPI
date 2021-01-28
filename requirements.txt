@@ -1,0 +1,6 @@
+flask
+nltk
+matplotlib
+flask-cors
+sklearn
+gensim
